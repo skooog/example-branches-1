@@ -1,7 +1,9 @@
-ex-branches
-===========
+ex-branches 
 
-At 10:45 AM, I really wish I had a cookie. :cookie:
+===========
+editing this readme, so gh is forking this for me.
+:cookie:
+Actionable: note-- your comments should be in present tense. eg "Add cookie emoji" rather than "Added request for cookies". More like a to-do list.
 
 This repository contains several commits on `master` branch and two on feature branches and helps demonstrate branching and merging Git commands.
 
